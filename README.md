@@ -1,4 +1,4 @@
 ChatBot
 =======
 
-A simple chatbot for my Intelligence Systems course
+A simple chatbot for my Intelligent Systems course
